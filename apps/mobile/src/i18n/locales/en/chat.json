@@ -1,0 +1,92 @@
+{
+  "list": {
+    "signIn": "Sign in to message other players.",
+    "emptyTitle": "No chats yet",
+    "emptyMessage": "A chat appears when you join an event or find a partner.",
+    "toEvents": "Go to events",
+    "someone": "Player",
+    "noMessages": "No messages yet",
+    "invite": "Meeting invitation",
+    "inviteTo": "Invite: {{event}}, {{when}}",
+    "inviteToAt": "Invite: {{event}}, {{when}} · {{venue}}",
+    "system": "Event update",
+    "youJoined": "You're going",
+    "eventTitle": "{{title}} · {{when}}",
+    "you": "You: {{body}}",
+    "cancelled": "Cancelled",
+    "unreadA11y_one": "{{count}} unread",
+    "unreadA11y_other": "{{count}} unread",
+    "mutedA11y": "muted"
+  },
+  "header": {
+    "match": "Match",
+    "openEvent": "Open event",
+    "openPerson": "Open profile"
+  },
+  "mute": {
+    "mute": "Mute chat notifications",
+    "unmute": "Unmute chat notifications",
+    "muted": "Chat muted",
+    "unmuted": "Chat unmuted"
+  },
+  "propose": {
+    "hint": "Agree on a time and place",
+    "button": "Propose a meeting"
+  },
+  "composer": {
+    "placeholder": "Message",
+    "a11y": "Message text",
+    "send": "Send"
+  },
+  "message": {
+    "a11y": "{{name}}: {{body}}, {{time}}",
+    "a11yOwn": "You: {{body}}, {{time}}",
+    "actions": "Message",
+    "actionsHint": "Long press for actions",
+    "moreA11y": "Actions for the message from {{name}}",
+    "report": "Report",
+    "retry": "Send again",
+    "discard": "Delete",
+    "failed": "Not sent · retry",
+    "retryA11y": "Not sent. Send again"
+  },
+  "system": {
+    "joined": "{{name}} is in",
+    "joinedSomeone": "A new player joined",
+    "cancelled": "Event cancelled",
+    "generic": "Event updated"
+  },
+  "invite": {
+    "kicker": "{{name}} proposes a meeting",
+    "kickerOwn": "You proposed a meeting",
+    "accept": "Accept",
+    "decline": "Decline",
+    "accepted": "Invitation accepted",
+    "youAccepted": "You're going",
+    "waiting": "Waiting for a reply",
+    "declined": "Invitation declined",
+    "cancelled": "Meeting cancelled",
+    "past": "This meeting has passed",
+    "inactive": "This invitation is no longer active",
+    "error": "Couldn't load the meeting",
+    "openHint": "Open the event",
+    "a11y": "Invitation from {{name}}: {{sport}}, {{when}}, {{venue}}",
+    "declinedByOther": "Invitation declined"
+  },
+  "empty": {
+    "title": "Say hi first",
+    "match": "Agree where and when to play.",
+    "event": "Talk the game through with the other players."
+  },
+  "unavailable": {
+    "title": "Chat unavailable",
+    "message": "You may no longer be in this event, or the match has ended.",
+    "toChats": "Go to chats"
+  },
+  "eventCancelled": "Event cancelled — the chat stays open",
+  "start": "Start of the conversation",
+  "signInMessage": "Sign in to read and send messages.",
+  "errors": {
+    "rateLimited": "Too many messages. Wait a minute"
+  }
+}

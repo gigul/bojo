@@ -1,0 +1,29 @@
+{
+  "name": "bojo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run start -w @bojo/mobile",
+    "web": "npm run web -w @bojo/mobile",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "lint": "npm run lint --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "db:start": "supabase start",
+    "db:stop": "supabase stop",
+    "db:reset": "supabase db reset",
+    "db:test": "supabase test db",
+    "db:types": "supabase gen types typescript --local --schema public > packages/shared/src/database.types.ts",
+    "functions:serve": "supabase functions serve --env-file supabase/functions/.env",
+    "osm:import": "npm --prefix scripts/osm run import"
+  },
+  "devDependencies": {
+    "prettier": "^3",
+    "supabase": "^2.121.0",
+    "typescript": "~6.0.3"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "subtitle": "Who to play with — by sport, level and time",
+  "anon": {
+    "title": "Find someone to play with",
+    "message": "Sign in to see players nearby with a similar level and schedule."
+  },
+  "incomplete": {
+    "title": "First, a little about you",
+    "message": "Add your sports, level and district — we’ll show you who to play with.",
+    "messageSports": "Add at least one sport to get suggestions.",
+    "action": "Complete profile",
+    "edit": "Open profile"
+  },
+  "filters": {
+    "label": "Sport",
+    "all": "All"
+  },
+  "actions": {
+    "like": "Want to play",
+    "pass": "Skip",
+    "likeA11y": "Want to play with {{name}}",
+    "passA11y": "Skip {{name}}"
+  },
+  "keyboardHint": "Use arrow keys: ← skip, → want to play",
+  "hidden": {
+    "text": "You’re hidden from suggestions — others can’t see you",
+    "hint": "Opens Edit profile"
+  },
+  "card": {
+    "open": "More about {{name}}"
+  },
+  "common": {
+    "slots": "You overlap: {{summary}}"
+  },
+  "why": {
+    "a11y": "Why it fits: {{list}}",
+    "sameLevel": "same level",
+    "closeLevel": "similar level",
+    "nearby": "nearby",
+    "sameDistrict": "your district",
+    "sameSchedule": "same schedule",
+    "similarSchedule": "similar schedule",
+    "commonSports_one": "{{count}} shared sport",
+    "commonSports_other": "{{count}} shared sports",
+    "sameSports": "same sports",
+    "sameGoal": "same goal"
+  },
+  "empty": {
+    "title": "No one yet",
+    "message": "New players join every day. Meanwhile, check the events — games are already forming.",
+    "messageSport": "No one for this sport yet. Try all sports or check the events.",
+    "events": "Open events",
+    "refresh": "Refresh",
+    "allSports": "Show all sports"
+  },
+  "match": {
+    "title": "You both want to play",
+    "text": "{{name}} wants to play too. Send a message or suggest a time and place right away.",
+    "textSport": "{{name}} wants to play too: {{sport}}. Send a message or suggest a time and place right away.",
+    "write": "Message",
+    "propose": "Suggest a meetup",
+    "later": "Later"
+  },
+  "person": {
+    "signIn": "Player profiles are visible after you sign in.",
+    "unavailable": "Profile unavailable",
+    "unavailableText": "This person may have deleted their account or restricted access.",
+    "attended_one": "{{count}} game played",
+    "attended_other": "{{count}} games played",
+    "editMine": "Edit profile",
+    "likeSent": "Done. If {{name}} wants to play too, a chat will open",
+    "waiting": "You said you want to play. When {{name}} does the same, a chat will open.",
+    "notInPool": "This person isn’t in suggestions right now",
+    "why": "Why it fits",
+    "sports": "Sports",
+    "time": "Good times to play",
+    "about": "About",
+    "blockHint": "You’ll stop seeing each other"
+  }
+}

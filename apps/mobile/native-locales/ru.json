@@ -1,0 +1,6 @@
+{
+  "CFBundleDisplayName": "Bojo",
+  "NSLocationWhenInUseUsageDescription": "Bojo использует геопозицию, чтобы показать площадки и игры рядом с вами. Другие пользователи её не видят.",
+  "NSPhotoLibraryUsageDescription": "Доступ к фото нужен, чтобы добавить фото профиля или площадки.",
+  "NSCameraUsageDescription": "Камера нужна, чтобы сфотографировать площадку."
+}

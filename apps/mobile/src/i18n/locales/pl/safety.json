@@ -1,0 +1,39 @@
+{
+  "report": {
+    "title": {
+      "user": "Zgłoś gracza",
+      "event": "Zgłoś wydarzenie",
+      "venue": "Problem z obiektem",
+      "venue_photo": "Zgłoś zdjęcie",
+      "message": "Zgłoś wiadomość"
+    },
+    "action": "Zgłoś",
+    "reasonLabel": "Co się stało",
+    "reasons": {
+      "spam": "Spam lub reklama",
+      "abuse": "Obelgi lub groźby",
+      "fake": "Fałszywe konto lub cudze dane",
+      "no_show": "Niestawienie się na grę",
+      "inappropriate": "Nieodpowiednie treści",
+      "wrong_info": "Nieprawdziwe informacje",
+      "other": "Inne"
+    },
+    "detailsLabel": "Szczegóły",
+    "detailsPlaceholder": "Krótko opisz, co się stało",
+    "detailsHint": "Opcjonalnie. Zobaczy to tylko moderator.",
+    "counter": "{{count}}/{{max}}",
+    "privacyNote": "Ta osoba nie dowie się, kto ją zgłosił. Sprawdzimy zgłoszenie i podejmiemy działania.",
+    "chooseReason": "Najpierw wybierz powód",
+    "submit": "Wyślij zgłoszenie",
+    "success": "Dziękujemy, sprawdzimy zgłoszenie"
+  },
+  "block": {
+    "action": "Zablokuj",
+    "unblock": "Odblokuj",
+    "confirmTitle": "Zablokować: {{name}}?",
+    "confirmTitleGeneric": "Zablokować użytkownika?",
+    "confirmMessage": "Przestaniecie się widzieć w propozycjach, wydarzeniach i czatach. Dopasowanie i zaproszenia zostaną anulowane. Odblokować można w ustawieniach.",
+    "done": "Użytkownik zablokowany",
+    "undone": "Użytkownik odblokowany"
+  }
+}

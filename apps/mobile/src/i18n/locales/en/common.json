@@ -1,0 +1,163 @@
+{
+  "appName": "Bojo",
+  "tagline": "Who and where to play with today",
+  "actions": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "done": "Done",
+    "retry": "Try again",
+    "back": "Back",
+    "next": "Next",
+    "continue": "Continue",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "share": "Share",
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "seeAll": "See all",
+    "showMore": "Show more",
+    "clear": "Clear",
+    "apply": "Apply",
+    "search": "Search",
+    "filters": "Filters",
+    "increase": "More",
+    "decrease": "Less",
+    "openSettings": "Open settings",
+    "goHome": "Go home"
+  },
+  "states": {
+    "loading": "Loading…",
+    "empty": "Nothing here yet",
+    "error": "Something went wrong",
+    "offline": "No connection",
+    "wip": "Coming soon",
+    "wipMessage": "This screen is on its way.",
+    "signInRequired": "Sign in required",
+    "signInRequiredMessage": "Sign in with your email — it takes a minute.",
+    "selected": "selected",
+    "optional": "optional"
+  },
+  "tabs": {
+    "map": "Map",
+    "events": "Events",
+    "people": "People",
+    "chats": "Chats",
+    "profile": "Profile",
+    "unread_one": "{{count}} unread message",
+    "unread_other": "{{count}} unread messages"
+  },
+  "screens": {
+    "map": "Map",
+    "events": "Events",
+    "people": "People",
+    "chats": "Chats",
+    "profile": "Profile",
+    "venue": "Venue",
+    "venueNew": "New venue",
+    "venueEdit": "Suggest a correction",
+    "eventCreate": "New event",
+    "eventCreateSport": "Sport",
+    "eventCreateVenue": "Where",
+    "eventCreateTime": "When",
+    "eventCreateDetails": "Details",
+    "event": "Event",
+    "attendance": "Who showed up",
+    "chat": "Chat",
+    "notifications": "Notifications",
+    "person": "Player profile",
+    "onboarding": "Welcome",
+    "onboardingSports": "Sports",
+    "onboardingAvailability": "When you're free",
+    "onboardingArea": "Area",
+    "editProfile": "Edit profile",
+    "settings": "Settings",
+    "runs": "Running",
+    "signIn": "Sign in",
+    "notFound": "Not found",
+    "devUi": "UI kit"
+  },
+  "time": {
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "yesterday": "Yesterday"
+  },
+  "spots": {
+    "leftShort": "{{count}} left",
+    "left_one": "{{count}} spot left",
+    "left_other": "{{count}} spots left",
+    "full": "Full",
+    "a11y_one": "{{count}} of {{total}} spots free",
+    "a11y_other": "{{count}} of {{total}} spots free",
+    "a11yNoTotal_one": "{{count}} spot free",
+    "a11yNoTotal_other": "{{count}} spots free",
+    "a11yFull": "No spots left"
+  },
+  "people": {
+    "more": "+{{count}}",
+    "a11y_one": "{{count}} player",
+    "a11y_other": "{{count}} players"
+  },
+  "osm": {
+    "attribution": "© OpenStreetMap contributors (ODbL)",
+    "attributionShort": "© OpenStreetMap",
+    "mapTiles": "Map: OpenFreeMap © OpenMapTiles, data © OpenStreetMap contributors"
+  },
+  "theme": {
+    "label": "Theme",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "language": {
+    "label": "Language",
+    "ru": "Русский",
+    "pl": "Polski",
+    "en": "English"
+  },
+  "a11y": {
+    "otp": "Code from the email, {{length}} digits",
+    "stepper": "{{label}}: {{value}}",
+    "avatarOf": "Photo of {{name}}",
+    "closeSheet": "Close",
+    "dismissToast": "Dismiss notification",
+    "loading": "Loading"
+  },
+  "placeholder": {
+    "map": "The venue map goes here",
+    "event": "Event card"
+  },
+  "notFound": {
+    "title": "This page doesn't exist",
+    "message": "The link may be out of date. Head back to the map and find a game nearby."
+  },
+  "dev": {
+    "supabaseMissing": "Supabase is not configured: create apps/mobile/.env from .env.example",
+    "uiKitTitle": "Design system",
+    "sectionTheme": "Theme and language",
+    "sectionType": "Typography",
+    "sectionColors": "Colours and contrast",
+    "sectionButtons": "Buttons",
+    "sectionChips": "Chips and badges",
+    "sectionInputs": "Inputs",
+    "sectionLists": "Cards and lists",
+    "sectionStates": "States",
+    "sectionSportIcons": "Sport pictograms",
+    "sectionIcons": "UI icons",
+    "sectionFeedback": "Sheets and toasts",
+    "sampleText": "5-a-side football at Pole Mokotowskie — today at 18:00",
+    "sampleName": "Anna Kowalska",
+    "sampleSubtitle": "Mokotów · ~2 km",
+    "sampleField": "Name",
+    "sampleFieldError": "At least 2 characters",
+    "samplePlayers": "Players",
+    "sampleSheetBody": "The sheet closes on a tap outside, the Close button or the system Back button.",
+    "openSheet": "Open sheet",
+    "toastNeutral": "Link copied",
+    "toastSuccess": "You're going",
+    "toastWarning": "One spot left",
+    "toastDanger": "Couldn't save"
+  }
+}

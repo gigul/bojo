@@ -1,0 +1,135 @@
+{
+  "sports": {
+    "football": "Piłka nożna",
+    "basketball": "Koszykówka",
+    "volleyball": "Siatkówka",
+    "tennis": "Tenis",
+    "padel": "Padel",
+    "table_tennis": "Tenis stołowy",
+    "swimming": "Pływanie",
+    "workout": "Street workout",
+    "running": "Bieganie",
+    "multi": "Różne dyscypliny"
+  },
+  "levels": {
+    "1": "Początkujący",
+    "2": "Amator",
+    "3": "Średni",
+    "4": "Zaawansowany",
+    "5": "Profesjonalista",
+    "any": "Dowolny poziom"
+  },
+  "districts": {
+    "bemowo": "Bemowo",
+    "bialoleka": "Białołęka",
+    "bielany": "Bielany",
+    "mokotow": "Mokotów",
+    "ochota": "Ochota",
+    "praga_poludnie": "Praga-Południe",
+    "praga_polnoc": "Praga-Północ",
+    "rembertow": "Rembertów",
+    "srodmiescie": "Śródmieście",
+    "targowek": "Targówek",
+    "ursus": "Ursus",
+    "ursynow": "Ursynów",
+    "wawer": "Wawer",
+    "wesola": "Wesoła",
+    "wilanow": "Wilanów",
+    "wlochy": "Włochy",
+    "wola": "Wola",
+    "zoliborz": "Żoliborz"
+  },
+  "weekdays": {
+    "1": "Poniedziałek",
+    "2": "Wtorek",
+    "3": "Środa",
+    "4": "Czwartek",
+    "5": "Piątek",
+    "6": "Sobota",
+    "7": "Niedziela"
+  },
+  "weekdaysShort": {
+    "1": "Pn",
+    "2": "Wt",
+    "3": "Śr",
+    "4": "Cz",
+    "5": "Pt",
+    "6": "Sb",
+    "7": "Nd"
+  },
+  "dayParts": {
+    "morning": "Rano",
+    "afternoon": "Popołudnie",
+    "evening": "Wieczór"
+  },
+  "dayPartHours": {
+    "morning": "6–12",
+    "afternoon": "12–17",
+    "evening": "17–23"
+  },
+  "goals": {
+    "fun": "Dla przyjemności",
+    "fitness": "Dla formy",
+    "competition": "Rywalizacja",
+    "learning": "Nauka"
+  },
+  "venueNames": {
+    "football": "Boisko do piłki nożnej",
+    "basketball": "Boisko do koszykówki",
+    "volleyball": "Boisko do siatkówki",
+    "tennis": "Kort tenisowy",
+    "padel": "Kort do padla",
+    "table_tennis": "Stół do ping-ponga",
+    "swimming": "Basen",
+    "workout": "Siłownia plenerowa",
+    "running": "Bieżnia",
+    "multi": "Boisko wielofunkcyjne"
+  },
+  "venueKinds": {
+    "pitch": "Boisko",
+    "sports_centre": "Centrum sportowe",
+    "swimming_pool": "Basen",
+    "fitness_station": "Siłownia plenerowa",
+    "track": "Bieżnia",
+    "running_route": "Trasa biegowa",
+    "other": "Obiekt sportowy"
+  },
+  "surfaces": {
+    "artificial_turf": "Sztuczna trawa",
+    "grass": "Trawa",
+    "asphalt": "Asfalt",
+    "tartan": "Tartan",
+    "concrete": "Beton",
+    "clay": "Mączka (kort ziemny)",
+    "acrylic": "Akryl (kort twardy)",
+    "hard": "Kort twardy",
+    "decoturf": "Kort twardy (DecoTurf)",
+    "sand": "Piasek",
+    "rubber": "Nawierzchnia gumowa",
+    "synthetic": "Nawierzchnia syntetyczna",
+    "plastic": "Tworzywo sztuczne",
+    "carpet": "Wykładzina",
+    "wood": "Drewno",
+    "paving_stones": "Kostka brukowa",
+    "paved": "Nawierzchnia utwardzona",
+    "unpaved": "Bez nawierzchni",
+    "compacted": "Ubita nawierzchnia",
+    "ground": "Grunt",
+    "dirt": "Ziemia",
+    "earth": "Ziemia",
+    "gravel": "Żwir",
+    "fine_gravel": "Drobny żwir",
+    "unknown": "Nawierzchnia nieznana"
+  },
+  "distance": {
+    "lt3": "do 3 km",
+    "approx": "~{{km}} km",
+    "gte20": "20+ km",
+    "km": "{{km}} km",
+    "m": "{{m}} m"
+  },
+  "units": {
+    "km": "km",
+    "perKm": "min/km"
+  }
+}

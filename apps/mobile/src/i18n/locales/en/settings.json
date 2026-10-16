@@ -1,0 +1,44 @@
+{
+  "appearance": {
+    "title": "Appearance",
+    "themeSystem": "System",
+    "themeLight": "Light",
+    "themeDark": "Dark"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "push": "Push notifications",
+    "pushHint": "Messages, matches and games nearby. In-app notifications are always shown.",
+    "radius": "Games nearby — radius",
+    "km": "{{km}} km",
+    "radiusHint": "We’ll tell you about open spots in games within this radius of your home area.",
+    "noHome": "No home area set — you won’t get notifications about games nearby.",
+    "setHome": "Set home area"
+  },
+  "blocked": {
+    "title": "Blocked users",
+    "hint": "You don’t see each other in suggestions, events or chats",
+    "empty": "You haven’t blocked anyone"
+  },
+  "about": {
+    "title": "About",
+    "version": "Version",
+    "versionValue": "Bojo {{version}}",
+    "venueData": "Venue data",
+    "mapTiles": "Map",
+    "mapTilesValue": "OpenFreeMap © OpenMapTiles",
+    "openLink": "Opens the page in your browser"
+  },
+  "account": {
+    "title": "Account",
+    "signedInAs": "Signed in as {{email}}",
+    "delete": "Delete account",
+    "deleteTitle": "Delete account?",
+    "deleteMessage": "Your profile, sports, matches, messages and events will be deleted. This can’t be undone.",
+    "deleteContinue": "Continue",
+    "deleteTitle2": "Are you sure?",
+    "deleteMessage2": "The account {{email}} will be deleted forever.",
+    "deleteForever": "Delete forever",
+    "deleted": "Account deleted"
+  }
+}

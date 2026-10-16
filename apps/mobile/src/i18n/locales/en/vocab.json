@@ -1,0 +1,135 @@
+{
+  "sports": {
+    "football": "Football",
+    "basketball": "Basketball",
+    "volleyball": "Volleyball",
+    "tennis": "Tennis",
+    "padel": "Padel",
+    "table_tennis": "Table tennis",
+    "swimming": "Swimming",
+    "workout": "Workout",
+    "running": "Running",
+    "multi": "Several sports"
+  },
+  "levels": {
+    "1": "Beginner",
+    "2": "Amateur",
+    "3": "Intermediate",
+    "4": "Advanced",
+    "5": "Pro",
+    "any": "Any level"
+  },
+  "districts": {
+    "bemowo": "Bemowo",
+    "bialoleka": "Białołęka",
+    "bielany": "Bielany",
+    "mokotow": "Mokotów",
+    "ochota": "Ochota",
+    "praga_poludnie": "Praga-Południe",
+    "praga_polnoc": "Praga-Północ",
+    "rembertow": "Rembertów",
+    "srodmiescie": "Śródmieście",
+    "targowek": "Targówek",
+    "ursus": "Ursus",
+    "ursynow": "Ursynów",
+    "wawer": "Wawer",
+    "wesola": "Wesoła",
+    "wilanow": "Wilanów",
+    "wlochy": "Włochy",
+    "wola": "Wola",
+    "zoliborz": "Żoliborz"
+  },
+  "weekdays": {
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Wednesday",
+    "4": "Thursday",
+    "5": "Friday",
+    "6": "Saturday",
+    "7": "Sunday"
+  },
+  "weekdaysShort": {
+    "1": "Mon",
+    "2": "Tue",
+    "3": "Wed",
+    "4": "Thu",
+    "5": "Fri",
+    "6": "Sat",
+    "7": "Sun"
+  },
+  "dayParts": {
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening"
+  },
+  "dayPartHours": {
+    "morning": "6–12",
+    "afternoon": "12–17",
+    "evening": "17–23"
+  },
+  "goals": {
+    "fun": "For fun",
+    "fitness": "To get fit",
+    "competition": "To compete",
+    "learning": "To learn"
+  },
+  "venueNames": {
+    "football": "Football pitch",
+    "basketball": "Basketball court",
+    "volleyball": "Volleyball court",
+    "tennis": "Tennis court",
+    "padel": "Padel court",
+    "table_tennis": "Ping-pong table",
+    "swimming": "Swimming pool",
+    "workout": "Workout area",
+    "running": "Running track",
+    "multi": "Multi-sport court"
+  },
+  "venueKinds": {
+    "pitch": "Pitch",
+    "sports_centre": "Sports centre",
+    "swimming_pool": "Swimming pool",
+    "fitness_station": "Outdoor gym",
+    "track": "Running track",
+    "running_route": "Running route",
+    "other": "Sports spot"
+  },
+  "surfaces": {
+    "artificial_turf": "Artificial turf",
+    "grass": "Grass",
+    "asphalt": "Asphalt",
+    "tartan": "Tartan",
+    "concrete": "Concrete",
+    "clay": "Clay",
+    "acrylic": "Acrylic hard court",
+    "hard": "Hard court",
+    "decoturf": "Hard court (DecoTurf)",
+    "sand": "Sand",
+    "rubber": "Rubber",
+    "synthetic": "Synthetic",
+    "plastic": "Plastic",
+    "carpet": "Carpet",
+    "wood": "Wood",
+    "paving_stones": "Paving stones",
+    "paved": "Paved",
+    "unpaved": "Unpaved",
+    "compacted": "Compacted",
+    "ground": "Ground",
+    "dirt": "Dirt",
+    "earth": "Earth",
+    "gravel": "Gravel",
+    "fine_gravel": "Fine gravel",
+    "unknown": "Surface unknown"
+  },
+  "distance": {
+    "lt3": "under 3 km",
+    "approx": "~{{km}} km",
+    "gte20": "20+ km",
+    "km": "{{km}} km",
+    "m": "{{m}} m"
+  },
+  "units": {
+    "km": "km",
+    "perKm": "min/km"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "anon": {
+    "title": "Your sports profile",
+    "message": "Sign in to add your sports and level — it makes finding people to play with easier."
+  },
+  "actions": {
+    "edit": "Edit"
+  },
+  "goalLine": "Goal: {{goal}}",
+  "verified": {
+    "label": "Verified",
+    "howTitle": "How to get the “Verified” mark",
+    "howText": "For now we verify manually: a moderator checks the profile and games played. Adding a photo and your sports speeds it up."
+  },
+  "sections": {
+    "reliability": "Reliability",
+    "sports": "Sports",
+    "availability": "When you can play",
+    "about": "About"
+  },
+  "empty": {
+    "sports": "Add your sports to show up in suggestions.",
+    "availability": "Not set — add the times that suit you in your profile."
+  },
+  "hidden": {
+    "title": "You’re hidden from suggestions",
+    "text": "Others won’t see you in the People tab. You can change this in Edit profile."
+  },
+  "links": {
+    "runs": "Running",
+    "runsHint": "Pace, distance and group runs",
+    "settingsHint": "Theme, language, notifications, blocked users"
+  },
+  "slots": {
+    "part": {
+      "morning": "mornings",
+      "afternoon": "afternoons",
+      "evening": "evenings"
+    },
+    "partsJoin": " and ",
+    "allDay": "all day",
+    "group": "{{days}} {{parts}}",
+    "everyDay": "{{parts}} every day",
+    "workdays": "weekday",
+    "weekend": "weekend",
+    "dayShort": {
+      "1": "Mon",
+      "2": "Tue",
+      "3": "Wed",
+      "4": "Thu",
+      "5": "Fri",
+      "6": "Sat",
+      "7": "Sun"
+    }
+  },
+  "sports": {
+    "levelTitle": "Your level",
+    "levelFor": "Level: {{sport}}",
+    "commonA11y": "{{label}}, a sport you share"
+  },
+  "levelHints": {
+    "1": "Just starting, I know the rules",
+    "2": "I play now and then, for myself",
+    "3": "I play regularly and confidently",
+    "4": "I play a lot, with solid technique and tactics",
+    "5": "Competitions, tournaments, club"
+  },
+  "goalHints": {
+    "fun": "Play for fun and meet people",
+    "fitness": "Move and stay in shape",
+    "competition": "Serious games, playing to win",
+    "learning": "Learn and improve technique"
+  },
+  "reliability": {
+    "inline": "{{score}}% · reliability",
+    "inlineA11y": "Reliability {{score}} percent",
+    "percent": "{{score}}%",
+    "games_one": "{{count}} game",
+    "games_other": "{{count}} games",
+    "a11y_one": "Reliability {{score}} percent, {{count}} game",
+    "a11y_other": "Reliability {{score}} percent, {{count}} games",
+    "explain": "Share of games you showed up for, as marked by organizers.",
+    "pending_one": "Appears after {{count}} game",
+    "pending_other": "Appears after {{count}} games",
+    "pendingExplain": "Organizers mark who showed up. Be on time — others can see it.",
+    "progress": "{{done}} of {{total}} marked"
+  },
+  "availability": {
+    "presets": {
+      "workdayEvenings": "Weekday evenings",
+      "weekend": "Weekends"
+    },
+    "clear": "Clear"
+  },
+  "home": {
+    "title": "Better suggestions nearby",
+    "explain": "You can set your home area from your location. We store only an approximate area (~500 m); others see only your district and “~N km”.",
+    "isSet": "Home area saved (~500 m)",
+    "detect": "Use my location",
+    "update": "Update from my location",
+    "clear": "Remove",
+    "detected": "Done. Your district: {{district}}",
+    "saved": "Done, home area saved",
+    "cleared": "Home area removed",
+    "unavailable": "Couldn’t get your location. Allow location access or choose your district manually.",
+    "rateLimited": "You can change your home area up to 5 times a day"
+  },
+  "avatar": {
+    "add": "Add photo",
+    "change": "Change photo",
+    "remove": "Remove photo",
+    "hint": "A photo helps you recognise each other at the venue"
+  },
+  "edit": {
+    "photoAndName": "Photo and name",
+    "name": "Name",
+    "nameTooShort_one": "At least {{count}} character",
+    "nameTooShort_other": "At least {{count}} characters",
+    "bio": "About",
+    "bioPlaceholder": "For example: I play in the evenings, looking for a weekend team",
+    "counter": "{{count}}/{{max}}",
+    "sportsHint": "Pick your sports and your level",
+    "sportsRequired": "Choose at least one sport",
+    "availabilityHint": "Others only see the overlap with their own schedule",
+    "district": "District",
+    "districtHint": "Others see only the district, never an address",
+    "goal": "Goal",
+    "matching": "Suggestions",
+    "discoverable": "Show me in suggestions",
+    "discoverableHint": "If off, you won’t appear in the People tab. Events and chats work as usual.",
+    "saved": "Profile saved"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "CFBundleDisplayName": "Bojo",
+  "NSLocationWhenInUseUsageDescription": "Bojo uses your location to show sports venues and games near you. It is never shared with other users.",
+  "NSPhotoLibraryUsageDescription": "Bojo needs access to your photos so you can add a profile picture or a photo of a venue.",
+  "NSCameraUsageDescription": "Bojo uses the camera so you can take a photo of a venue."
+}

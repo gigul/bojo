@@ -1,0 +1,50 @@
+{
+  "channelName": "Bojo notifications",
+  "bell": {
+    "a11y": "Notifications",
+    "a11yUnread_one": "Notifications, {{count}} new",
+    "a11yUnread_other": "Notifications, {{count}} new"
+  },
+  "inbox": {
+    "readAll": "Mark all read",
+    "unread": "New",
+    "emptyTitle": "All quiet for now",
+    "emptyMessage": "Invitations, matches and news about your events will show up here.",
+    "signIn": "Sign in to get notifications."
+  },
+  "types": {
+    "event_nearby": {
+      "title": "{{sport}} nearby · {{when}}",
+      "body_one": "{{venue}} · {{count}} player needed",
+      "body_other": "{{venue}} · {{count}} players needed"
+    },
+    "event_joined": {
+      "title": "{{name}} is in: {{sport}}",
+      "body_one": "{{when}} · {{count}} spot left",
+      "body_other": "{{when}} · {{count}} spots left",
+      "bodyFull": "{{when}} · now full"
+    },
+    "event_cancelled": {
+      "title": "Cancelled: {{sport}}, {{when}}",
+      "body": "{{venue}}"
+    },
+    "event_invite": {
+      "title": "{{name}} invites you: {{sport}}",
+      "body": "{{when}} · {{venue}}"
+    },
+    "match": {
+      "title": "New match: {{name}}",
+      "body": "Say hi and plan a game"
+    },
+    "message": {
+      "title": "{{name}}: new message",
+      "body": "Open the chat to reply",
+      "bodyEvent": "New in the event chat"
+    },
+    "attendance_reminder": {
+      "title": "Mark who came",
+      "body": "{{sport}}, {{when}}"
+    },
+    "fallback": "New notification"
+  }
+}

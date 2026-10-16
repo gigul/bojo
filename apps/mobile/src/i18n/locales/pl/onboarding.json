@@ -1,0 +1,39 @@
+{
+  "progress": "Krok {{step}} z {{total}}",
+  "progressShort": "{{step}}/{{total}}",
+  "done": "Gotowe. Szukamy, z kim zagrać",
+  "name": {
+    "title": "Jak masz na imię?",
+    "subtitle": "Imię i zdjęcie zobaczą gracze, z którymi umówisz się na grę.",
+    "label": "Imię",
+    "placeholder": "Na przykład Anna",
+    "hint": "{{count}}/{{max}}",
+    "tooShort_one": "Co najmniej {{count}} znak",
+    "tooShort_few": "Co najmniej {{count}} znaki",
+    "tooShort_many": "Co najmniej {{count}} znaków",
+    "tooShort_other": "Co najmniej {{count}} znaku",
+    "signOut": "Zaloguj się innym e-mailem"
+  },
+  "sports": {
+    "title": "W co grasz?",
+    "subtitle": "Wybierz dyscypliny i poziom — propozycje będą trafniejsze.",
+    "required": "Wybierz co najmniej jedną dyscyplinę"
+  },
+  "availability": {
+    "title": "Kiedy możesz grać?",
+    "subtitle": "Zaznacz, kiedy zwykle masz czas. Możesz to zmienić w każdej chwili.",
+    "skip": "Pomiń",
+    "privacy": "Nikt nie widzi całego twojego grafiku — tylko to, co pokrywa się z jego własnym."
+  },
+  "area": {
+    "title": "Gdzie grasz?",
+    "subtitle": "Dzielnica i cel pomogą znaleźć ludzi w pobliżu i w twoim klimacie.",
+    "districtTitle": "Dzielnica",
+    "districtHint": "Inni widzą tylko dzielnicę, nie adres",
+    "districtRequired": "Wybierz dzielnicę",
+    "goalTitle": "Po co grasz",
+    "goalHint": "Opcjonalnie",
+    "finish": "Gotowe",
+    "incomplete": "Brakuje imienia lub dyscyplin — uzupełnij je"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "stubBadge": "More coming soon",
+  "intro": {
+    "title": "Run with company",
+    "text": "Set your pace and favourite distance — it makes finding running partners easier. Group runs are below."
+  },
+  "prefs": {
+    "title": "My pace",
+    "subtitle": "Minutes per kilometre",
+    "signIn": "Sign in to save your pace and distance.",
+    "paceFast": "Fast",
+    "paceSlow": "Easy",
+    "paceHint": "You run comfortably between {{fast}} and {{slow}}",
+    "distance": "Favourite distance",
+    "km": "{{km}} km",
+    "saveFirst": "Save pace",
+    "saved": "Pace saved"
+  },
+  "group": {
+    "title": "Group runs",
+    "subtitle": "Upcoming runs in Warsaw",
+    "empty": "No runs yet. Create the first one — people will join.",
+    "create": "Create a run"
+  },
+  "integrations": {
+    "title": "Import workouts",
+    "subtitle": "Connecting services is coming later",
+    "strava": "Strava",
+    "appleHealth": "Apple Health",
+    "googleFit": "Google Fit",
+    "soon": "soon",
+    "soonText": "Run import — coming soon"
+  }
+}

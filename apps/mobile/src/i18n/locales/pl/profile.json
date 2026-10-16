@@ -1,0 +1,141 @@
+{
+  "anon": {
+    "title": "Twój sportowy profil",
+    "message": "Zaloguj się, aby dodać dyscypliny i poziom — łatwiej znajdziesz kogoś do gry."
+  },
+  "actions": {
+    "edit": "Edytuj"
+  },
+  "goalLine": "Cel: {{goal}}",
+  "verified": {
+    "label": "Zweryfikowany",
+    "howTitle": "Jak zdobyć oznaczenie „Zweryfikowany”",
+    "howText": "Na razie weryfikujemy ręcznie: moderator sprawdza profil i rozegrane gry. Dodaj zdjęcie i dyscypliny — to przyspieszy weryfikację."
+  },
+  "sections": {
+    "reliability": "Niezawodność",
+    "sports": "Dyscypliny",
+    "availability": "Kiedy możesz grać",
+    "about": "O mnie"
+  },
+  "empty": {
+    "sports": "Dodaj dyscypliny, aby pojawić się w propozycjach.",
+    "availability": "Nie podano — dodaj dogodne pory w profilu."
+  },
+  "hidden": {
+    "title": "Jesteś ukryty w propozycjach",
+    "text": "Inni nie zobaczą cię w zakładce „Ludzie”. Możesz to zmienić w edycji profilu."
+  },
+  "links": {
+    "runs": "Bieganie",
+    "runsHint": "Tempo, dystans i wspólne biegi",
+    "settingsHint": "Motyw, język, powiadomienia, blokady"
+  },
+  "slots": {
+    "part": {
+      "morning": "rano",
+      "afternoon": "po południu",
+      "evening": "wieczorem"
+    },
+    "partsJoin": " i ",
+    "allDay": "cały dzień",
+    "group": "{{days}} {{parts}}",
+    "everyDay": "codziennie {{parts}}",
+    "workdays": "w dni robocze",
+    "weekend": "w weekendy",
+    "dayShort": {
+      "1": "pon",
+      "2": "wt",
+      "3": "śr",
+      "4": "czw",
+      "5": "pt",
+      "6": "sob",
+      "7": "ndz"
+    }
+  },
+  "sports": {
+    "levelTitle": "Twój poziom",
+    "levelFor": "Poziom: {{sport}}",
+    "commonA11y": "{{label}}, wspólna dyscyplina"
+  },
+  "levelHints": {
+    "1": "Dopiero zaczynam, znam zasady",
+    "2": "Gram od czasu do czasu, dla siebie",
+    "3": "Gram regularnie i pewnie",
+    "4": "Gram dużo, mam technikę i taktykę",
+    "5": "Zawody, turnieje, klub"
+  },
+  "goalHints": {
+    "fun": "Pograć dla przyjemności i poznać ludzi",
+    "fitness": "Poruszać się i trzymać formę",
+    "competition": "Poważna gra na wynik",
+    "learning": "Nauczyć się i poprawić technikę"
+  },
+  "reliability": {
+    "inline": "{{score}}% · niezawodność",
+    "inlineA11y": "Niezawodność {{score}} procent",
+    "percent": "{{score}}%",
+    "games_one": "{{count}} gra",
+    "games_few": "{{count}} gry",
+    "games_many": "{{count}} gier",
+    "games_other": "{{count}} gry",
+    "a11y_one": "Niezawodność {{score}} procent, {{count}} gra",
+    "a11y_few": "Niezawodność {{score}} procent, {{count}} gry",
+    "a11y_many": "Niezawodność {{score}} procent, {{count}} gier",
+    "a11y_other": "Niezawodność {{score}} procent, {{count}} gry",
+    "explain": "Odsetek gier z twoją obecnością, według oznaczeń organizatorów.",
+    "pending_one": "Pojawi się po {{count}} grze",
+    "pending_few": "Pojawi się po {{count}} grach",
+    "pending_many": "Pojawi się po {{count}} grach",
+    "pending_other": "Pojawi się po {{count}} grach",
+    "pendingExplain": "Organizatorzy zaznaczają, kto przyszedł. Przychodź punktualnie — inni to widzą.",
+    "progress": "Oznaczono {{done}} z {{total}}"
+  },
+  "availability": {
+    "presets": {
+      "workdayEvenings": "Wieczory w tygodniu",
+      "weekend": "Weekendy"
+    },
+    "clear": "Wyczyść"
+  },
+  "home": {
+    "title": "Dokładniejsze propozycje w pobliżu",
+    "explain": "Możesz ustalić strefę domową na podstawie lokalizacji. Przechowujemy tylko przybliżony obszar (~500 m), inni widzą tylko dzielnicę i „~N km”.",
+    "isSet": "Strefa domowa zapisana (~500 m)",
+    "detect": "Ustal z lokalizacji",
+    "update": "Zaktualizuj z lokalizacji",
+    "clear": "Usuń",
+    "detected": "Gotowe. Twoja dzielnica: {{district}}",
+    "saved": "Gotowe, strefa domowa zapisana",
+    "cleared": "Strefa domowa usunięta",
+    "unavailable": "Nie udało się ustalić lokalizacji. Zezwól na dostęp do lokalizacji lub wybierz dzielnicę ręcznie.",
+    "rateLimited": "Strefę domową można zmieniać najwyżej 5 razy dziennie"
+  },
+  "avatar": {
+    "add": "Dodaj zdjęcie",
+    "change": "Zmień zdjęcie",
+    "remove": "Usuń zdjęcie",
+    "hint": "Zdjęcie pomaga rozpoznać się na boisku"
+  },
+  "edit": {
+    "photoAndName": "Zdjęcie i imię",
+    "name": "Imię",
+    "nameTooShort_one": "Co najmniej {{count}} znak",
+    "nameTooShort_few": "Co najmniej {{count}} znaki",
+    "nameTooShort_many": "Co najmniej {{count}} znaków",
+    "nameTooShort_other": "Co najmniej {{count}} znaku",
+    "bio": "O mnie",
+    "bioPlaceholder": "Na przykład: gram wieczorami, szukam ekipy na weekendy",
+    "counter": "{{count}}/{{max}}",
+    "sportsHint": "Zaznacz dyscypliny i swój poziom",
+    "sportsRequired": "Wybierz co najmniej jedną dyscyplinę",
+    "availabilityHint": "Inni widzą tylko to, co pokrywa się z ich grafikiem",
+    "district": "Dzielnica",
+    "districtHint": "Inni widzą tylko dzielnicę, nie adres",
+    "goal": "Cel",
+    "matching": "Propozycje",
+    "discoverable": "Pokazuj mnie w propozycjach",
+    "discoverableHint": "Po wyłączeniu nie będzie cię w zakładce „Ludzie”. Wydarzenia i czaty działają normalnie.",
+    "saved": "Profil zapisany"
+  }
+}
