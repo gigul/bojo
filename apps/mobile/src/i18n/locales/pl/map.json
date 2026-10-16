@@ -1,0 +1,66 @@
+{
+  "sportFilter": "Filtruj według sportu",
+  "allSports": "Wszystkie",
+  "allSportsA11y": "Wszystkie sporty",
+  "locateMe": "Pokaż, gdzie jestem",
+  "locateMeHint": "Mapa przesunie się do ciebie. Lokalizacja nigdzie nie jest wysyłana",
+  "locationDenied": "Brak dostępu do lokalizacji — pokazujemy Warszawę",
+  "addVenue": "Dodaj obiekt",
+  "createGame": "Utwórz grę",
+  "createGameHint": "Sport, obiekt i godzina — w czterech dotknięciach",
+  "skipToList": "Przejdź do listy",
+  "loading": "Ładujemy obiekty…",
+  "zoomInToSeeAll": "Przybliż, aby zobaczyć wszystkie",
+  "zoomInHint": "Przybliża mapę",
+  "zoomIn": "Przybliż",
+  "zoomOut": "Oddal",
+  "a11y": {
+    "map": "Mapa obiektów"
+  },
+  "attribution": {
+    "button": "Źródło danych mapy",
+    "openHint": "Otwiera stronę licencji OpenStreetMap"
+  },
+  "marker": {
+    "cluster_one": "{{count}} obiekt w pobliżu, przybliż",
+    "cluster_few": "{{count}} obiekty w pobliżu, przybliż",
+    "cluster_many": "{{count}} obiektów w pobliżu, przybliż",
+    "cluster_other": "{{count}} obiektu w pobliżu, przybliż",
+    "clusterWithEvents": "dziś ktoś tu gra",
+    "me": "Tu jesteś"
+  },
+  "pick": {
+    "confirm": "Wybierz to miejsce",
+    "confirmHint": "Wybiera punkt na środku mapy"
+  },
+  "preview": {
+    "label": "Obiekt: {{title}}",
+    "open": "Otwórz",
+    "openHint": "Otwiera stronę obiektu",
+    "close": "Zamknij kartę",
+    "selectHint": "Pokazuje obiekt na mapie"
+  },
+  "sheet": {
+    "venuesTab": "Obiekty",
+    "todayTab": "Dziś",
+    "tabsLabel": "Co pokazać na liście",
+    "expand": "Rozwiń listę",
+    "collapse": "Zwiń listę",
+    "emptyTitle": "Nie ma tu jeszcze obiektów",
+    "emptyMessage": "Przesuń mapę albo dodaj obiekt, który znasz",
+    "emptyFilteredTitle": "Brak obiektów dla tych sportów w tej okolicy",
+    "emptyFilteredMessage": "Przesuń mapę albo wybierz inny sport",
+    "clearFilter": "Wyczyść filtr",
+    "outsideTitle": "Na razie Bojo działa tylko w Warszawie",
+    "outsideMessage": "Wkrótce kolejne miasta",
+    "backToWarsaw": "Wróć do Warszawy",
+    "truncatedNote": "Dużo tu obiektów — pokazujemy te najbliżej środka mapy. Przybliż, aby zobaczyć wszystkie",
+    "todayEmptyTitle": "Dziś nikt w pobliżu nie gra",
+    "todayEmptyMessage": "Utwórz wydarzenie jako pierwszy — sąsiedzi zobaczą je na mapie",
+    "createEvent": "Utwórz wydarzenie",
+    "addVenueRow": "Brakuje obiektu? Dodaj go",
+    "nextTitle": "Dziś nikt tu nie gra",
+    "nextCityTitle": "Dziś nikt w pobliżu nie gra",
+    "nextMessage": "Najbliższe gry — możesz dołączyć już teraz"
+  }
+}

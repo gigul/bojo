@@ -1,0 +1,39 @@
+{
+  "report": {
+    "title": {
+      "user": "Report player",
+      "event": "Report event",
+      "venue": "Report a venue problem",
+      "venue_photo": "Report photo",
+      "message": "Report message"
+    },
+    "action": "Report",
+    "reasonLabel": "What happened",
+    "reasons": {
+      "spam": "Spam or advertising",
+      "abuse": "Insults or threats",
+      "fake": "Fake profile or someone else's data",
+      "no_show": "Didn't show up",
+      "inappropriate": "Inappropriate content",
+      "wrong_info": "Wrong information",
+      "other": "Something else"
+    },
+    "detailsLabel": "Details",
+    "detailsPlaceholder": "Briefly describe what happened",
+    "detailsHint": "Optional. Only a moderator will see it.",
+    "counter": "{{count}}/{{max}}",
+    "privacyNote": "They won't know who reported them. We'll review the report and take action.",
+    "chooseReason": "Choose a reason first",
+    "submit": "Send report",
+    "success": "Thanks, we'll review the report"
+  },
+  "block": {
+    "action": "Block",
+    "unblock": "Unblock",
+    "confirmTitle": "Block {{name}}?",
+    "confirmTitleGeneric": "Block this user?",
+    "confirmMessage": "You won't see each other in suggestions, events or chats. Your match and invitations will be cancelled. You can unblock in Settings.",
+    "done": "User blocked",
+    "undone": "User unblocked"
+  }
+}

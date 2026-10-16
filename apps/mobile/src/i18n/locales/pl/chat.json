@@ -1,0 +1,94 @@
+{
+  "list": {
+    "signIn": "Zaloguj się, aby pisać z graczami.",
+    "emptyTitle": "Nie masz jeszcze czatów",
+    "emptyMessage": "Czat pojawi się, gdy dołączysz do wydarzenia albo znajdziesz partnera do gry.",
+    "toEvents": "Do wydarzeń",
+    "someone": "Gracz",
+    "noMessages": "Brak wiadomości",
+    "invite": "Zaproszenie na spotkanie",
+    "inviteTo": "Zaproszenie: {{event}}, {{when}}",
+    "inviteToAt": "Zaproszenie: {{event}}, {{when}} · {{venue}}",
+    "system": "Nowości z wydarzenia",
+    "youJoined": "Idziesz",
+    "eventTitle": "{{title}} · {{when}}",
+    "you": "Ty: {{body}}",
+    "cancelled": "Odwołane",
+    "unreadA11y_one": "{{count}} nieprzeczytana",
+    "unreadA11y_few": "{{count}} nieprzeczytane",
+    "unreadA11y_many": "{{count}} nieprzeczytanych",
+    "unreadA11y_other": "{{count}} nieprzeczytanej",
+    "mutedA11y": "powiadomienia wyciszone"
+  },
+  "header": {
+    "match": "Para",
+    "openEvent": "Otwórz wydarzenie",
+    "openPerson": "Otwórz profil"
+  },
+  "mute": {
+    "mute": "Wycisz powiadomienia czatu",
+    "unmute": "Włącz powiadomienia czatu",
+    "muted": "Powiadomienia czatu wyciszone",
+    "unmuted": "Powiadomienia czatu włączone"
+  },
+  "propose": {
+    "hint": "Umówcie się na godzinę i miejsce",
+    "button": "Zaproponuj spotkanie"
+  },
+  "composer": {
+    "placeholder": "Wiadomość",
+    "a11y": "Treść wiadomości",
+    "send": "Wyślij"
+  },
+  "message": {
+    "a11y": "{{name}}: {{body}}, {{time}}",
+    "a11yOwn": "Ty: {{body}}, {{time}}",
+    "actions": "Wiadomość",
+    "actionsHint": "Przytrzymaj, aby zobaczyć działania",
+    "moreA11y": "Akcje dla wiadomości od {{name}}",
+    "report": "Zgłoś",
+    "retry": "Wyślij ponownie",
+    "discard": "Usuń",
+    "failed": "Nie wysłano · ponów",
+    "retryA11y": "Nie wysłano. Wyślij ponownie"
+  },
+  "system": {
+    "joined": "{{name}} idzie",
+    "joinedSomeone": "Nowy uczestnik",
+    "cancelled": "Wydarzenie odwołane",
+    "generic": "Wydarzenie zaktualizowane"
+  },
+  "invite": {
+    "kicker": "{{name}} proponuje spotkanie",
+    "kickerOwn": "Twoja propozycja spotkania",
+    "accept": "Akceptuj",
+    "decline": "Odrzuć",
+    "accepted": "Zaproszenie przyjęte",
+    "youAccepted": "Idziesz",
+    "waiting": "Czekamy na odpowiedź",
+    "declined": "Zaproszenie odrzucone",
+    "cancelled": "Spotkanie odwołane",
+    "past": "Spotkanie już się odbyło",
+    "inactive": "Zaproszenie jest już nieaktualne",
+    "error": "Nie udało się wczytać spotkania",
+    "openHint": "Otwórz wydarzenie",
+    "a11y": "Zaproszenie od {{name}}: {{sport}}, {{when}}, {{venue}}",
+    "declinedByOther": "Zaproszenie odrzucone"
+  },
+  "empty": {
+    "title": "Zacznij rozmowę",
+    "match": "Ustalcie, gdzie i kiedy zagrać.",
+    "event": "Omówcie szczegóły gry z uczestnikami."
+  },
+  "unavailable": {
+    "title": "Czat niedostępny",
+    "message": "Możliwe, że nie uczestniczysz już w wydarzeniu albo para została rozłączona.",
+    "toChats": "Do czatów"
+  },
+  "eventCancelled": "Wydarzenie odwołane — czat zostaje do dyskusji",
+  "start": "Początek rozmowy",
+  "signInMessage": "Zaloguj się, aby czytać i wysyłać wiadomości.",
+  "errors": {
+    "rateLimited": "Za dużo wiadomości. Poczekaj chwilę"
+  }
+}

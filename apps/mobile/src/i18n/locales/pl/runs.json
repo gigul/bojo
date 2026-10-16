@@ -1,0 +1,34 @@
+{
+  "stubBadge": "Wkrótce więcej",
+  "intro": {
+    "title": "Biegaj w towarzystwie",
+    "text": "Podaj tempo i ulubiony dystans — łatwiej znajdziesz kogoś do biegania. Wspólne biegi znajdziesz niżej."
+  },
+  "prefs": {
+    "title": "Moje tempo",
+    "subtitle": "Minuty na kilometr",
+    "signIn": "Zaloguj się, aby zapisać tempo i dystans.",
+    "paceFast": "Szybkie",
+    "paceSlow": "Spokojne",
+    "paceHint": "Komfortowo biegasz od {{fast}} do {{slow}}",
+    "distance": "Ulubiony dystans",
+    "km": "{{km}} km",
+    "saveFirst": "Zapisz tempo",
+    "saved": "Tempo zapisane"
+  },
+  "group": {
+    "title": "Wspólne biegi",
+    "subtitle": "Najbliższe biegi w Warszawie",
+    "empty": "Na razie brak biegów. Utwórz pierwszy — ktoś dołączy.",
+    "create": "Utwórz bieg"
+  },
+  "integrations": {
+    "title": "Import treningów",
+    "subtitle": "Łączenie z serwisami pojawi się później",
+    "strava": "Strava",
+    "appleHealth": "Apple Health",
+    "googleFit": "Google Fit",
+    "soon": "wkrótce",
+    "soonText": "Import biegów — wkrótce"
+  }
+}

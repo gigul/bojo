@@ -1,0 +1,44 @@
+{
+  "appearance": {
+    "title": "Wygląd",
+    "themeSystem": "Auto",
+    "themeLight": "Jasny",
+    "themeDark": "Ciemny"
+  },
+  "notifications": {
+    "title": "Powiadomienia",
+    "push": "Powiadomienia push",
+    "pushHint": "Wiadomości, dopasowania i gry w pobliżu. W aplikacji powiadomienia widać zawsze.",
+    "radius": "Gry w pobliżu — promień",
+    "km": "{{km}} km",
+    "radiusHint": "Damy znać o wolnych miejscach w grach w tym promieniu od twojej strefy domowej.",
+    "noHome": "Strefa domowa nie jest ustawiona — powiadomienia o grach w pobliżu nie przychodzą.",
+    "setHome": "Ustaw strefę domową"
+  },
+  "blocked": {
+    "title": "Zablokowani",
+    "hint": "Nie widzicie się w propozycjach, wydarzeniach i czatach",
+    "empty": "Lista zablokowanych jest pusta"
+  },
+  "about": {
+    "title": "O aplikacji",
+    "version": "Wersja",
+    "versionValue": "Bojo {{version}}",
+    "venueData": "Dane o obiektach",
+    "mapTiles": "Mapa",
+    "mapTilesValue": "OpenFreeMap © OpenMapTiles",
+    "openLink": "Otworzy stronę w przeglądarce"
+  },
+  "account": {
+    "title": "Konto",
+    "signedInAs": "Zalogowano jako {{email}}",
+    "delete": "Usuń konto",
+    "deleteTitle": "Usunąć konto?",
+    "deleteMessage": "Profil, dyscypliny, dopasowania, wiadomości i twoje wydarzenia zostaną usunięte. Tego nie da się cofnąć.",
+    "deleteContinue": "Dalej",
+    "deleteTitle2": "Na pewno usunąć?",
+    "deleteMessage2": "Konto {{email}} zostanie usunięte na zawsze.",
+    "deleteForever": "Usuń na zawsze",
+    "deleted": "Konto usunięte"
+  }
+}

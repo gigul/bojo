@@ -1,0 +1,14 @@
+{
+  "name": "@bojo/osm-import",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Imports Warsaw sports venues + district boundaries from OpenStreetMap (Overpass) into committed SQL seeds. Zero dependencies; runs on Node >= 22.18 native type stripping.",
+  "scripts": {
+    "import": "node src/main.ts",
+    "fetch": "node src/main.ts --fetch-only",
+    "build": "node src/main.ts --offline",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test src/*.test.ts"
+  }
+}

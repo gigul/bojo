@@ -1,0 +1,56 @@
+{
+  "channelName": "Уведомления Bojo",
+  "bell": {
+    "a11y": "Уведомления",
+    "a11yUnread_one": "Уведомления, {{count}} новое",
+    "a11yUnread_few": "Уведомления, {{count}} новых",
+    "a11yUnread_many": "Уведомления, {{count}} новых",
+    "a11yUnread_other": "Уведомления, {{count}} нового"
+  },
+  "inbox": {
+    "readAll": "Прочитать все",
+    "unread": "Новое",
+    "emptyTitle": "Пока тихо",
+    "emptyMessage": "Здесь появятся приглашения, мэтчи и новости о ваших событиях.",
+    "signIn": "Войдите, чтобы получать уведомления."
+  },
+  "types": {
+    "event_nearby": {
+      "title": "{{sport}} рядом · {{when}}",
+      "body_one": "{{venue}} · не хватает {{count}} игрока",
+      "body_few": "{{venue}} · не хватает {{count}} игроков",
+      "body_many": "{{venue}} · не хватает {{count}} игроков",
+      "body_other": "{{venue}} · не хватает {{count}} игрока"
+    },
+    "event_joined": {
+      "title": "{{name}} идёт: {{sport}}",
+      "body_one": "{{when}} · свободно ещё {{count}} место",
+      "body_few": "{{when}} · свободно ещё {{count}} места",
+      "body_many": "{{when}} · свободно ещё {{count}} мест",
+      "body_other": "{{when}} · свободно ещё {{count}} места",
+      "bodyFull": "{{when}} · все места заняты"
+    },
+    "event_cancelled": {
+      "title": "Отменено: {{sport}}, {{when}}",
+      "body": "{{venue}}"
+    },
+    "event_invite": {
+      "title": "{{name}} зовёт: {{sport}}",
+      "body": "{{when}} · {{venue}}"
+    },
+    "match": {
+      "title": "Мэтч с {{name}}",
+      "body": "Напишите первым и договоритесь об игре"
+    },
+    "message": {
+      "title": "{{name}}: новое сообщение",
+      "body": "Откройте чат, чтобы ответить",
+      "bodyEvent": "Новое в чате события"
+    },
+    "attendance_reminder": {
+      "title": "Отметьте, кто пришёл",
+      "body": "{{sport}}, {{when}}"
+    },
+    "fallback": "Новое уведомление"
+  }
+}

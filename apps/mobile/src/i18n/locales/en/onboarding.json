@@ -1,0 +1,37 @@
+{
+  "progress": "Step {{step}} of {{total}}",
+  "progressShort": "{{step}}/{{total}}",
+  "done": "All set. Let’s find people to play with",
+  "name": {
+    "title": "What’s your name?",
+    "subtitle": "Players you arrange a game with will see your name and photo.",
+    "label": "Name",
+    "placeholder": "For example, Anna",
+    "hint": "{{count}}/{{max}}",
+    "tooShort_one": "At least {{count}} character",
+    "tooShort_other": "At least {{count}} characters",
+    "signOut": "Use a different email"
+  },
+  "sports": {
+    "title": "What do you play?",
+    "subtitle": "Pick your sports and level — suggestions get more accurate.",
+    "required": "Choose at least one sport"
+  },
+  "availability": {
+    "title": "When can you play?",
+    "subtitle": "Mark when you’re usually free. You can change it any time.",
+    "skip": "Skip",
+    "privacy": "Nobody sees your full schedule — only where it overlaps with theirs."
+  },
+  "area": {
+    "title": "Where do you play?",
+    "subtitle": "Your district and goal help us find people nearby who match your vibe.",
+    "districtTitle": "District",
+    "districtHint": "Others see only the district, never an address",
+    "districtRequired": "Choose a district",
+    "goalTitle": "Why you play",
+    "goalHint": "Optional",
+    "finish": "Done",
+    "incomplete": "Your name or sports are missing — please fill them in"
+  }
+}

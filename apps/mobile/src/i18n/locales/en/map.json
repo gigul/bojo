@@ -1,0 +1,64 @@
+{
+  "sportFilter": "Filter by sport",
+  "allSports": "All",
+  "allSportsA11y": "All sports",
+  "locateMe": "Show where I am",
+  "locateMeHint": "Moves the map to you. Your location isn't sent anywhere",
+  "locationDenied": "No access to your location — showing Warsaw",
+  "addVenue": "Add a venue",
+  "createGame": "Create a game",
+  "createGameHint": "Sport, venue and time in four taps",
+  "skipToList": "Skip to the list",
+  "loading": "Loading venues…",
+  "zoomInToSeeAll": "Zoom in to see all",
+  "zoomInHint": "Zooms the map in",
+  "zoomIn": "Zoom in",
+  "zoomOut": "Zoom out",
+  "a11y": {
+    "map": "Venue map"
+  },
+  "attribution": {
+    "button": "Map data source",
+    "openHint": "Opens the OpenStreetMap licence page"
+  },
+  "marker": {
+    "cluster_one": "{{count}} venue nearby, zoom in",
+    "cluster_other": "{{count}} venues nearby, zoom in",
+    "clusterWithEvents": "games today",
+    "me": "You are here"
+  },
+  "pick": {
+    "confirm": "Choose this spot",
+    "confirmHint": "Picks the point in the centre of the map"
+  },
+  "preview": {
+    "label": "Venue: {{title}}",
+    "open": "Open",
+    "openHint": "Opens the venue page",
+    "close": "Close card",
+    "selectHint": "Shows the venue on the map"
+  },
+  "sheet": {
+    "venuesTab": "Venues",
+    "todayTab": "Today",
+    "tabsLabel": "What to list",
+    "expand": "Expand list",
+    "collapse": "Collapse list",
+    "emptyTitle": "No venues here yet",
+    "emptyMessage": "Move the map or add a venue you know",
+    "emptyFilteredTitle": "No venues for these sports here",
+    "emptyFilteredMessage": "Move the map or pick another sport",
+    "clearFilter": "Clear filter",
+    "outsideTitle": "Bojo only works in Warsaw for now",
+    "outsideMessage": "More cities are coming soon",
+    "backToWarsaw": "Back to Warsaw",
+    "truncatedNote": "Lots of venues here — showing the ones closest to the map centre. Zoom in to see all",
+    "todayEmptyTitle": "Nobody nearby is playing today",
+    "todayEmptyMessage": "Create an event first — people nearby will see it on the map",
+    "createEvent": "Create an event",
+    "addVenueRow": "Missing a venue? Add it",
+    "nextTitle": "Nobody is playing here today",
+    "nextCityTitle": "Nobody is playing nearby today",
+    "nextMessage": "Next games — you can join ahead"
+  }
+}

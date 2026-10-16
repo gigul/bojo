@@ -1,0 +1,56 @@
+{
+  "channelName": "Powiadomienia Bojo",
+  "bell": {
+    "a11y": "Powiadomienia",
+    "a11yUnread_one": "Powiadomienia, {{count}} nowe",
+    "a11yUnread_few": "Powiadomienia, {{count}} nowe",
+    "a11yUnread_many": "Powiadomienia, {{count}} nowych",
+    "a11yUnread_other": "Powiadomienia, {{count}} nowego"
+  },
+  "inbox": {
+    "readAll": "Oznacz wszystkie",
+    "unread": "Nowe",
+    "emptyTitle": "Na razie cisza",
+    "emptyMessage": "Tu pojawią się zaproszenia, pary i wieści o Twoich wydarzeniach.",
+    "signIn": "Zaloguj się, aby dostawać powiadomienia."
+  },
+  "types": {
+    "event_nearby": {
+      "title": "{{sport}} w pobliżu · {{when}}",
+      "body_one": "{{venue}} · brakuje {{count}} gracza",
+      "body_few": "{{venue}} · brakuje {{count}} graczy",
+      "body_many": "{{venue}} · brakuje {{count}} graczy",
+      "body_other": "{{venue}} · brakuje {{count}} gracza"
+    },
+    "event_joined": {
+      "title": "{{name}} idzie: {{sport}}",
+      "body_one": "{{when}} · zostało {{count}} wolne miejsce",
+      "body_few": "{{when}} · zostały {{count}} wolne miejsca",
+      "body_many": "{{when}} · zostało {{count}} wolnych miejsc",
+      "body_other": "{{when}} · zostało {{count}} wolnego miejsca",
+      "bodyFull": "{{when}} · komplet"
+    },
+    "event_cancelled": {
+      "title": "Odwołane: {{sport}}, {{when}}",
+      "body": "{{venue}}"
+    },
+    "event_invite": {
+      "title": "{{name}} zaprasza: {{sport}}",
+      "body": "{{when}} · {{venue}}"
+    },
+    "match": {
+      "title": "Nowa para: {{name}}",
+      "body": "Napisz i umówcie się na grę"
+    },
+    "message": {
+      "title": "{{name}}: nowa wiadomość",
+      "body": "Otwórz czat, aby odpowiedzieć",
+      "bodyEvent": "Nowość na czacie wydarzenia"
+    },
+    "attendance_reminder": {
+      "title": "Zaznacz, kto przyszedł",
+      "body": "{{sport}}, {{when}}"
+    },
+    "fallback": "Nowe powiadomienie"
+  }
+}

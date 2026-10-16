@@ -1,0 +1,6 @@
+{
+  "CFBundleDisplayName": "Bojo",
+  "NSLocationWhenInUseUsageDescription": "Bojo używa Twojej lokalizacji, aby pokazać boiska i gry w pobliżu. Inni użytkownicy jej nie widzą.",
+  "NSPhotoLibraryUsageDescription": "Dostęp do zdjęć jest potrzebny, aby dodać zdjęcie profilowe lub zdjęcie obiektu.",
+  "NSCameraUsageDescription": "Aparat jest potrzebny, aby zrobić zdjęcie obiektu."
+}

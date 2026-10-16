@@ -1,0 +1,18 @@
+{
+  "not_authenticated": "Please sign in",
+  "not_found": "Not available — it may have been removed",
+  "forbidden": "You don't have access",
+  "invalid_input": "Please check what you entered",
+  "rate_limited": "Too many actions. Try again later",
+  "profile_incomplete": "Finish your profile first",
+  "event_full": "No spots left",
+  "event_not_joinable": "The event has already started or was cancelled",
+  "organizer_cannot_leave": "The organiser can't leave — you can cancel the event instead",
+  "not_participant": "You're not taking part in this event",
+  "attendance_window_closed": "It's too late to mark attendance",
+  "outside_service_area": "Bojo only works in Warsaw for now",
+  "duplicate_venue": "This venue already exists nearby",
+  "match_inactive": "This match is no longer active",
+  "network": "Can't reach the server. Check your connection",
+  "unknown": "Something went wrong. Please try again"
+}

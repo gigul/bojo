@@ -1,0 +1,18 @@
+{
+  "not_authenticated": "Musisz się zalogować",
+  "not_found": "Niedostępne — być może zostało usunięte",
+  "forbidden": "Brak dostępu",
+  "invalid_input": "Sprawdź wprowadzone dane",
+  "rate_limited": "Za dużo działań. Spróbuj później",
+  "profile_incomplete": "Najpierw uzupełnij profil",
+  "event_full": "Brak wolnych miejsc",
+  "event_not_joinable": "Wydarzenie już się zaczęło lub zostało odwołane",
+  "organizer_cannot_leave": "Organizator nie może wyjść — może odwołać wydarzenie",
+  "not_participant": "Nie bierzesz udziału w tym wydarzeniu",
+  "attendance_window_closed": "Nie można już oznaczyć obecności",
+  "outside_service_area": "Na razie Bojo działa tylko w Warszawie",
+  "duplicate_venue": "Taki obiekt już jest w pobliżu",
+  "match_inactive": "To dopasowanie nie jest już aktywne",
+  "network": "Brak połączenia z serwerem. Sprawdź internet",
+  "unknown": "Coś poszło nie tak. Spróbuj ponownie"
+}

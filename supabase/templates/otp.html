@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bojo</title>
+  </head>
+  <body style="margin:0;padding:0;background:#f4f5f0;font-family:Manrope,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#121411;">
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="background:#f4f5f0;padding:24px 0;">
+      <tr>
+        <td align="center">
+          <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="max-width:480px;background:#ffffff;border-radius:20px;padding:32px 28px;">
+            <tr>
+              <td style="font-size:22px;font-weight:800;letter-spacing:-0.3px;padding-bottom:20px;">
+                <span style="display:inline-block;width:12px;height:12px;border-radius:6px;background:#C8F031;margin-right:8px;vertical-align:middle;"></span>Bojo
+              </td>
+            </tr>
+
+            <!-- ru -->
+            <tr>
+              <td style="font-size:16px;line-height:24px;padding-bottom:8px;">
+                Ваш код для входа в Bojo:
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="padding:12px 0 20px;">
+                <div style="display:inline-block;background:#121411;color:#C8F031;font-size:34px;font-weight:800;letter-spacing:10px;padding:14px 22px 14px 32px;border-radius:14px;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;">{{ .Token }}</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="font-size:14px;line-height:21px;color:#5b6157;padding-bottom:20px;border-bottom:1px solid #e6e8e1;">
+                Код действует 10 минут. Если вы не запрашивали вход, просто проигнорируйте это письмо.
+              </td>
+            </tr>
+
+            <!-- pl -->
+            <tr>
+              <td style="font-size:14px;line-height:21px;color:#5b6157;padding-top:16px;padding-bottom:12px;border-bottom:1px solid #e6e8e1;">
+                <strong style="color:#121411;">PL</strong> · Twój kod logowania do Bojo: <strong style="color:#121411;font-family:Consolas,Menlo,monospace;letter-spacing:2px;">{{ .Token }}</strong>.
+                Kod jest ważny przez 10 minut. Jeśli to nie Ty, zignoruj tę wiadomość.
+              </td>
+            </tr>
+
+            <!-- en -->
+            <tr>
+              <td style="font-size:14px;line-height:21px;color:#5b6157;padding-top:12px;">
+                <strong style="color:#121411;">EN</strong> · Your Bojo sign-in code: <strong style="color:#121411;font-family:Consolas,Menlo,monospace;letter-spacing:2px;">{{ .Token }}</strong>.
+                It expires in 10 minutes. If you didn't request it, you can ignore this email.
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

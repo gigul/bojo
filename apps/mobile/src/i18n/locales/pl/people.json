@@ -1,0 +1,84 @@
+{
+  "subtitle": "Z kim zagrać — według dyscypliny, poziomu i czasu",
+  "anon": {
+    "title": "Znajdź kogoś do gry",
+    "message": "Zaloguj się, aby widzieć graczy w pobliżu o podobnym poziomie i grafiku."
+  },
+  "incomplete": {
+    "title": "Najpierw kilka słów o sobie",
+    "message": "Podaj dyscypliny, poziom i dzielnicę — pokażemy, z kim możesz zagrać.",
+    "messageSports": "Dodaj co najmniej jedną dyscyplinę, aby zobaczyć propozycje.",
+    "action": "Uzupełnij profil",
+    "edit": "Otwórz profil"
+  },
+  "filters": {
+    "label": "Dyscyplina",
+    "all": "Wszystkie"
+  },
+  "actions": {
+    "like": "Chcę zagrać",
+    "pass": "Pomiń",
+    "likeA11y": "Chcę zagrać z: {{name}}",
+    "passA11y": "Pomiń: {{name}}"
+  },
+  "keyboardHint": "Możesz używać strzałek: ← pomiń, → chcę zagrać",
+  "hidden": {
+    "text": "Jesteś ukryty w propozycjach — inni cię nie widzą",
+    "hint": "Otwiera edycję profilu"
+  },
+  "card": {
+    "open": "Więcej o: {{name}}"
+  },
+  "common": {
+    "slots": "Pasuje wam: {{summary}}"
+  },
+  "why": {
+    "a11y": "Dlaczego pasuje: {{list}}",
+    "sameLevel": "ten sam poziom",
+    "closeLevel": "podobny poziom",
+    "nearby": "blisko",
+    "sameDistrict": "twoja dzielnica",
+    "sameSchedule": "ten sam grafik",
+    "similarSchedule": "podobny grafik",
+    "commonSports_one": "{{count}} wspólna dyscyplina",
+    "commonSports_few": "{{count}} wspólne dyscypliny",
+    "commonSports_many": "{{count}} wspólnych dyscyplin",
+    "commonSports_other": "{{count}} wspólnej dyscypliny",
+    "sameSports": "te same dyscypliny",
+    "sameGoal": "ten sam cel"
+  },
+  "empty": {
+    "title": "Na razie nikogo",
+    "message": "Nowi gracze pojawiają się codziennie. Tymczasem zajrzyj do wydarzeń — tam już zbierają się gry.",
+    "messageSport": "W tej dyscyplinie na razie nikogo. Spróbuj wszystkich dyscyplin albo zajrzyj do wydarzeń.",
+    "events": "Otwórz wydarzenia",
+    "refresh": "Odśwież",
+    "allSports": "Pokaż wszystkie dyscypliny"
+  },
+  "match": {
+    "title": "Oboje chcecie zagrać",
+    "text": "{{name}} też chce zagrać. Napisz albo od razu zaproponuj czas i miejsce.",
+    "textSport": "{{name}} też chce zagrać: {{sport}}. Napisz albo od razu zaproponuj czas i miejsce.",
+    "write": "Napisz",
+    "propose": "Zaproponuj spotkanie",
+    "later": "Później"
+  },
+  "person": {
+    "signIn": "Profile graczy są widoczne po zalogowaniu.",
+    "unavailable": "Profil niedostępny",
+    "unavailableText": "Możliwe, że ta osoba usunęła konto lub ograniczyła dostęp.",
+    "attended_one": "{{count}} rozegrana gra",
+    "attended_few": "{{count}} rozegrane gry",
+    "attended_many": "{{count}} rozegranych gier",
+    "attended_other": "{{count}} rozegranej gry",
+    "editMine": "Edytuj profil",
+    "likeSent": "Gotowe. Jeśli {{name}} też zechce zagrać, otworzy się czat",
+    "waiting": "Propozycja gry wysłana. Gdy {{name}} odpowie tym samym, otworzy się czat.",
+    "notInPool": "Ta osoba nie jest teraz w propozycjach",
+    "why": "Dlaczego pasuje",
+    "sports": "Dyscypliny",
+    "time": "Dogodny czas",
+    "about": "O mnie",
+    "blockHint": "Przestaniecie się widzieć"
+  }
+}
